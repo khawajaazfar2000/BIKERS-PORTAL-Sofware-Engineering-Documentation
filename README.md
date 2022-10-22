@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://www.bennetts.co.uk/-/media/import/6685_images/666_range1.ashx?la=en&hash=EE378BE5A57DACA292963356FF2E84C7024DD6DC" alt="image" width="60%" >
+        <img src="https://www.pngitem.com/pimgs/m/193-1933355_all-bikes-png-transparent-png.png" alt="image" width="60%" >
 </p>
 
 <h1 align="center"> Project Summary of Bikers Portal</h1>
