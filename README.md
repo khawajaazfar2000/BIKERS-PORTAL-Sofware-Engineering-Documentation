@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://startuppakistan.com.pk/wp-content/uploads/2021/11/suzuki-hayabusa-2021-price-in-pakistan-features-a.jpeg" alt="image" width="100%" >
+        <img src="https://startuppakistan.com.pk/wp-content/uploads/2021/11/suzuki-hayabusa-2021-price-in-pakistan-features-a.jpeg" alt="image" width="90%" >
 </p>
 
 <h1 align="center"> Project Summary of Bikers Portal</h1>
