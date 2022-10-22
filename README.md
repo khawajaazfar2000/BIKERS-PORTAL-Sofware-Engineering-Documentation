@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://img.favpng.com/10/7/17/victory-motorcycles-indian-types-of-motorcycles-bicycle-png-favpng-bDS6LAh67mpar1456TaUCM17K.jpg" alt="image" width="60%" >
+        <img src="https://www.bennetts.co.uk/-/media/import/6685_images/666_range1.ashx?la=en&hash=EE378BE5A57DACA292963356FF2E84C7024DD6DC" alt="image" width="60%" >
 </p>
 
 <h1 align="center"> Project Summary of Bikers Portal</h1>
