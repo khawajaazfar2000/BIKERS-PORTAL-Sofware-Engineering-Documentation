@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://www.pngitem.com/pimgs/m/193-1933355_all-bikes-png-transparent-png.png" alt="image" width="60%" >
+        <img src="https://www.pngitem.com/pimgs/m/193-1933355_all-bikes-png-transparent-png.png" alt="image" width="100%" >
 </p>
 
 <h1 align="center"> Project Summary of Bikers Portal</h1>
